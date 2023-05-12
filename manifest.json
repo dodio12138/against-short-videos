@@ -17,5 +17,8 @@
             "https://www.bilibili.com/*"
           ]
         }
+      ],
+      "web_accessible_resources": [
+        "/images/*"
       ]
     }
